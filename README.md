@@ -25,30 +25,14 @@
 
 <h3 align="left">Additional Skills</h3>
 <p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="vertical-align: middle;"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="vertical-align: middle;"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="vertical-align: middle;"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="vertical-align: middle;"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="vertical-align: middle;"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="vertical-align: middle;"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle;"/></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-decoration: none; border: none;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="vertical-align: middle;"/></a>
 </p>
 
 <p align="center">
