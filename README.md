@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A passionate and hard working developer</h3>
+<h3 align="center">A passionate and hard working enginner</h3>
 
 - 👨‍💻 All of my projects are available here!
 
