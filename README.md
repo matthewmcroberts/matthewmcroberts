@@ -26,7 +26,7 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/java" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42"/>
 <img src="https://cdn.simpleicons.org/spring" height="42"/>
 <img src="https://cdn.simpleicons.org/python" height="42"/>
 <img src="https://cdn.simpleicons.org/javascript" height="42"/>
