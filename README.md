@@ -13,9 +13,8 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 
 <ul>
 <li>🔧 Backend & game server engineer</li>
-<li>🎮 Minecraft & multiplayer systems developer</li>
-<li>⚙️ Experienced with Spring Boot, networking, and distributed services</li>
-<li>🚀 Always building performance-focused systems</li>
+<li>🎮 Minecraft, Roblox, & multiplayer systems developer</li>
+<li>⚙️ Professional experience with Spring Boot, networking, and distributed services</li>
 </ul>
 
 <p>📫 <b>Contact:</b> matthew.mcroberts22@gmail.com</p>
@@ -69,5 +68,5 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 </ul>
 
 <p align="center">
-⭐ Always learning. Always building.
+⭐ Feel free to reach out!
 </p>
