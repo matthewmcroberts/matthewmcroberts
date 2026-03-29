@@ -20,12 +20,6 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 
 <p>📫 <b>Contact:</b> matthew.mcroberts22@gmail.com</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/matthew-mcroberts-169639267/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin" height="28"/>
-</a>
-</p>
-
 <hr/>
 
 <h2>🚀 Primary Proficiency</h2>
@@ -39,8 +33,6 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 <img src="https://cdn.simpleicons.org/typescript" height="42"/>
 <img src="https://cdn.simpleicons.org/mongodb" height="42"/>
 <img src="https://cdn.simpleicons.org/mysql" height="42"/>
-<img src="https://cdn.simpleicons.org/html5" height="42"/>
-<img src="https://cdn.simpleicons.org/css3" height="42"/>
 <img src="https://cdn.simpleicons.org/roblox" height="42"/>
 <img src="https://cdn.simpleicons.org/lua" height="42"/>
 
@@ -64,16 +56,6 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 </p>
 
 <hr/>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matthewmcroberts&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewmcroberts&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <hr/>
 
