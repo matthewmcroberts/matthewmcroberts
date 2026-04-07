@@ -27,13 +27,13 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42"/>
 <img src="https://cdn.simpleicons.org/spring" height="42"/>
-<img src="https://cdn.simpleicons.org/python" height="42"/>
+<img src="https://cdn.simpleicons.org/node.js" height="40"/>
 <img src="https://cdn.simpleicons.org/javascript" height="42"/>
-<img src="https://cdn.simpleicons.org/typescript" height="42"/>
 <img src="https://cdn.simpleicons.org/mongodb" height="42"/>
 <img src="https://cdn.simpleicons.org/mysql" height="42"/>
-<img src="https://cdn.simpleicons.org/roblox" height="42"/>
-<img src="https://cdn.simpleicons.org/lua" height="42"/>
+<img src="https://cdn.simpleicons.org/react" height="40"/>
+<img src="https://cdn.simpleicons.org/tailwindcss" height="40"/>
+<img src="https://cdn.simpleicons.org/python" height="42"/>
 
 </p>
 
@@ -43,14 +43,13 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/node.js" height="40"/>
-<img src="https://cdn.simpleicons.org/react" height="40"/>
+<img src="https://cdn.simpleicons.org/typescript" height="42"/>
 <img src="https://cdn.simpleicons.org/php" height="40"/>
 <img src="https://cdn.simpleicons.org/redis" height="40"/>
 <img src="https://cdn.simpleicons.org/sqlite" height="40"/>
-<img src="https://cdn.simpleicons.org/tailwindcss" height="40"/>
 <img src="https://cdn.simpleicons.org/unity" height="40"/>
-<img src="https://cdn.simpleicons.org/postman" height="40"/>
+<img src="https://cdn.simpleicons.org/roblox" height="42"/>
+<img src="https://cdn.simpleicons.org/lua" height="42"/>
 
 </p>
 
