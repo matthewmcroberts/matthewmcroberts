@@ -12,8 +12,8 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-<li>🔧 Backend & game server engineer</li>
-<li>🎮 Minecraft, Roblox, & multiplayer systems developer</li>
+<li>🔧 Full-Stack Application Development</li>
+<li>🎮 Multiplayer systems developer</li>
 <li>⚙️ Professional experience with Spring Boot, networking, and distributed services</li>
 </ul>
 
