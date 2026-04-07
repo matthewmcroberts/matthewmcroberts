@@ -61,9 +61,9 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 
 <ul>
 <li>Multiplayer game infrastructure</li>
-<li>Minecraft server plugins & networking</li>
 <li>Backend APIs & microservices</li>
 <li>Real-time systems</li>
+<li>Full-Stack websites</li>
 </ul>
 
 <p align="center">
