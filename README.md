@@ -34,6 +34,7 @@ Focused on scalable backend systems, game server engineering, and full-stack dev
 <img src="https://cdn.simpleicons.org/react" height="40"/>
 <img src="https://cdn.simpleicons.org/tailwindcss" height="40"/>
 <img src="https://cdn.simpleicons.org/python" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="42"/>
 
 </p>
 
